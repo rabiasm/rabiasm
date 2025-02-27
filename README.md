@@ -18,6 +18,8 @@ Hello! I am **Rabia SÜME**, a Computer Engineering student passionate about tec
 💡 I am always eager to explore new challenges and enhance my expertise in the tech industry.  
 
 ---
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=rabiasm&color=blue)
+
 
 ## 🛠 Technical Skills  
 
